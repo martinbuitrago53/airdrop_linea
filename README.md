@@ -1,6 +1,6 @@
 # airdrop_linea
 
-## Table of Contents
+## como participar?
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)

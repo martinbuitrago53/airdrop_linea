@@ -1,4 +1,4 @@
-# airdrop_linea...
+# airdrop_linea.
 
 ## como participar?
 1. [General Info](#general-info)
